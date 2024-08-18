@@ -2,6 +2,7 @@
 
 ## Introduction
 This project focuses on analyzing retail sales data from a coffee shop to gain actionable insights that can enhance the shop's performance. The entire analysis was performed using Microsoft Excel, leveraging PivotTables, Slicers, and other Excel features to create an interactive and informative dashboard.
+![Coffee Shop Dashboard Image](https://github.com/AnkurSharma1302/coffee-store-sales/blob/main/coffee%20sales%20dashboard.png)
 
 ## Objectives
 The main objectives of this project include:
